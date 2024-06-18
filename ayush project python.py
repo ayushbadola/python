@@ -1,3 +1,4 @@
+#Hotel Managment System
 import mysql.connector
 import random
 mydb=mysql.connector.connect(host="localhost",user="root",passwd="root")
